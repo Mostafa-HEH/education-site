@@ -194,6 +194,10 @@ nav .fas {
   padding-top: 3rem;
 }
 
+.campus p {
+  color: #777;
+}
+
 .campus-col {
   flex-basis: 32%;
   border-radius: 0.7rem;
@@ -237,4 +241,36 @@ nav .fas {
 .layer:hover h3 {
   bottom: 49%;
   opacity: 1;
+}
+
+.facilities {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.facilities p {
+  color: #777;
+}
+
+.facilities-col {
+  flex-basis: 31%;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  text-align: left;
+}
+
+.facilities-col img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.facilities-col p {
+  padding: 0;
+}
+
+.facilities-col h3 {
+  margin: 1rem 0;
+  text-align: left;
 }
