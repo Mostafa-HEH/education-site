@@ -344,3 +344,31 @@ nav .fas {
     font-size: 1.7rem;
   }
 }
+
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 1.9rem 0;
+}
+
+.footer p {
+  padding: 0;
+  color: #777;
+}
+
+.footer h4 {
+  margin-bottom: 1.7rem;
+  margin-top: 1.2rem;
+  font-weight: 600;
+}
+
+.footer .fab {
+  color: #f44336;
+  margin: 0 0.9rem;
+  cursor: pointer;
+  padding: 1.1rem 0;
+}
+
+.footer .fa-heart {
+  color: #f44336;
+}
